@@ -1,3 +1,5 @@
+**English** | [한국어](README.ko.md)
+
 # MCP QA Lab
 
 [![CI](https://github.com/efficjump/mcp-qa-lab/actions/workflows/ci.yml/badge.svg)](https://github.com/efficjump/mcp-qa-lab/actions/workflows/ci.yml)
